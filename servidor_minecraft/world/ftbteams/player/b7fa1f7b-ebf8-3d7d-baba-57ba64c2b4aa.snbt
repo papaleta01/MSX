@@ -1,0 +1,17 @@
+{
+	id: "b7fa1f7b-ebf8-3d7d-baba-57ba64c2b4aa"
+	type: "player"
+	player_name: "flakuchentus"
+	ranks: {
+		b7fa1f7b-ebf8-3d7d-baba-57ba64c2b4aa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "flakuchentus"
+		"ftbteams:description": ""
+		"ftbteams:color": "#82FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

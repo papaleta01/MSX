@@ -1,0 +1,17 @@
+{
+	id: "d4625148-c87d-3a94-aa3a-4b77b7532f16"
+	type: "player"
+	player_name: "tommyvaa777"
+	ranks: {
+		d4625148-c87d-3a94-aa3a-4b77b7532f16: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "tommyvaa777"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

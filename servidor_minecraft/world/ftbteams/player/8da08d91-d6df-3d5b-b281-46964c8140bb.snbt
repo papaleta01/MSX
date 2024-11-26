@@ -1,0 +1,17 @@
+{
+	id: "8da08d91-d6df-3d5b-b281-46964c8140bb"
+	type: "player"
+	player_name: "teta"
+	ranks: {
+		8da08d91-d6df-3d5b-b281-46964c8140bb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "teta"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

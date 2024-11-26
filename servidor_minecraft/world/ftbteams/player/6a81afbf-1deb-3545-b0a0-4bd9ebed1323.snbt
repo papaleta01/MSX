@@ -1,0 +1,17 @@
+{
+	id: "6a81afbf-1deb-3545-b0a0-4bd9ebed1323"
+	type: "player"
+	player_name: "ulises_magico"
+	ranks: {
+		6a81afbf-1deb-3545-b0a0-4bd9ebed1323: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ulises_magico"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F1FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
